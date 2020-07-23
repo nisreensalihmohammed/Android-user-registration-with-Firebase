@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67295727743",
+    "firebase_url": "https://sudan-bride-f3141.firebaseio.com",
+    "project_id": "sudan-bride-f3141",
+    "storage_bucket": "sudan-bride-f3141.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67295727743:android:714fe45f1ff05ca583af4a",
+        "android_client_info": {
+          "package_name": "com.example.sudanbride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67295727743-bv2ut9teu50cet9v3rsofpu12q98ndqk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudanbride",
+            "certificate_hash": "feb093a324975f61196336a766f84ae7028c7b07"
+          }
+        },
+        {
+          "client_id": "67295727743-denlr21sr3q5el0a14t0unpc4jv1fovj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmG6Wcanmx1tdCEfUk6nKXZpb6RE_gJKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67295727743-denlr21sr3q5el0a14t0unpc4jv1fovj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
